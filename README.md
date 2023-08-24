@@ -1,4 +1,4 @@
-# Older-Articles
+# Older Articles
 Several ancient ghostwritten articles that are somehow still online:
 - [Prevention's the Cure](https://www.drdobbs.com/preventions-the-cure/184415174)
 - [64-Bit Clean Code: Are You Ready?](https://www.drdobbs.com/64-bit-clean-code-are-you-ready/184414590?queryText=kolawa)
