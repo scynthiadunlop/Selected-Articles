@@ -3,11 +3,11 @@
 ## For ScyllaDB  and P99 CONF
  - [Bryan Cantrill on Rust and the Future of Low-Latency Systems](https://thenewstack.io/bryan-cantrill-on-rust-and-the-future-of-low-latency-systems/)
  - [NoSQL, NoMQ: Palo Alto Networks’ New Event Streaming Paradigm](https://thenewstack.io/nosql-nomq-palo-alto-networks-new-event-streaming-paradigm/)
- - [Is a Rust Rewrite Really Worth It?](https://thenewstack.io/is-a-rust-rewrite-really-worth-it/) 
  - [ScyllaDB vs. MongoDB: When to Use Each](https://thenewstack.io/scylladb-vs-mongodb-when-to-use-each/)
  - [How Disney+ Hotstar Simplified Its Data Architecture for Scale](https://thenewstack.io/how-disney-hotstar-simplified-its-data-architecture-for-scale/)
  - [IOTA Distributed Ledger: Beyond Blockchain for Supply Chains](https://thenewstack.io/iota-distributed-ledger-beyond-blockchain-for-supply-chains/)
  - [Bryan Cantrill: What’s Next for Infrastructure, Open Source and Rust](https://thenewstack.io/bryan-cantrill-predicting-the-present/)
+ - [How Epic Games Revs up Unreal Engine ‘Cook Time’ for Devs](https://thenewstack.io/how-epic-games-revs-up-unreal-engine-cook-time-for-devs/) 
 
 ## For Parasoft
 - [Prevention's the Cure](https://www.drdobbs.com/preventions-the-cure/184415174)
