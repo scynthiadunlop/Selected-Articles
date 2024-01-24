@@ -25,4 +25,5 @@
  - [Enterprise Test Automation: 4 Ways to Break Through the Top Barriers](https://www.stickyminds.com/article/enterprise-test-automation-4-ways-break-through-top-barriers)
  - [How Reinventing Software Testing Can Transform Your Business — and Change the World](https://techcrunch.com/2018/03/13/how-reinventing-software-testing-can-transform-your-business-and-change-the-world/?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAALfUoWECkbpNNRVk0ociph3HDNvwcl4lEdfag7XwJ4UoaCeKcM6uI-6IYDQFkfPfXqBZf9ngETOWHqXlDRohWCdIXpkiQqV34aS5UuacoWMhaCMwlxtTxvVM4udkiE284lM5fhBy_8203j35nleIkpL25PppwlkzwO4ldqHSHAAD)
  - [Test Automation: Tools Don’t Work](https://sdtimes.com/test/test-automation-tools-dont-work/)
- - [RPA: Are We Making the Same Mistakes All Over Again?](https://www.cio.com/article/215723/rpa-are-we-making-the-same-mistakes-all-over-again.html)
+ - [DevOps Quality Metrics Ranked: From Overrated Distractions to Hidden Gems](https://thenewstack.io/devops-quality-metrics-ranked-from-overrated-distractions-to-hidden-gems/)
+ - [Stop Load Testing Like It’s 1999](https://thenewstack.io/how-to-stop-load-testing-like-its-1999/)
