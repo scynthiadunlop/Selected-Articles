@@ -7,7 +7,8 @@
  - [How Disney+ Hotstar Simplified Its Data Architecture for Scale](https://thenewstack.io/how-disney-hotstar-simplified-its-data-architecture-for-scale/)
  - [IOTA Distributed Ledger: Beyond Blockchain for Supply Chains](https://thenewstack.io/iota-distributed-ledger-beyond-blockchain-for-supply-chains/)
  - [Bryan Cantrill: What’s Next for Infrastructure, Open Source and Rust](https://thenewstack.io/bryan-cantrill-predicting-the-present/)
- - [How Epic Games Revs up Unreal Engine ‘Cook Time’ for Devs](https://thenewstack.io/how-epic-games-revs-up-unreal-engine-cook-time-for-devs/) 
+ - [How Epic Games Revs up Unreal Engine ‘Cook Time’ for Devs](https://thenewstack.io/how-epic-games-revs-up-unreal-engine-cook-time-for-devs/)
+ - [If P99 Latency Is BS, What’s the Alternative?](https://thenewstack.io/if-p99-latency-is-bs-whats-the-alternative/)
 
 ## For Parasoft
 - [Prevention's the Cure](https://www.drdobbs.com/preventions-the-cure/184415174)
@@ -16,6 +17,7 @@
 - [Extend Beyond JUnit’s Basic Color Palette](https://www.softwaretestpro.com/extend-beyond-junits-basic-color-palette/)
 - [Automating the Development Process](https://www.drdobbs.com/automating-the-development-process/184414627?queryText=kolawa)
 - [Reducing Software Security Vulnerabilities Through Unit Testing](https://www.militaryaerospace.com/test/article/16708135/reducing-software-security-vulnerabilities-through-unit-testing)
+- [Deploy and Destroy test environments](https://sdtimes.com/continuous-deployment/guest-view-test-anarchy-deploy-destroy-test-environments/)
 - [Techniques for Preventing and Detecting Errors in Embedded Systems](https://web.archive.org/web/20150107092432/https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.131.3010&rep=rep1&type=pdf)
 
 ## For Tricentis
