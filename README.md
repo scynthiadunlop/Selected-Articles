@@ -9,6 +9,7 @@
  - [Bryan Cantrill: What’s Next for Infrastructure, Open Source and Rust](https://thenewstack.io/bryan-cantrill-predicting-the-present/)
  - [How Epic Games Revs up Unreal Engine ‘Cook Time’ for Devs](https://thenewstack.io/how-epic-games-revs-up-unreal-engine-cook-time-for-devs/)
  - [If P99 Latency Is BS, What’s the Alternative?](https://thenewstack.io/if-p99-latency-is-bs-whats-the-alternative/)
+ - [Rust vs. Zig in Reality: A (Somewhat) Friendly Debate](https://thenewstack.io/rust-vs-zig-in-reality-a-somewhat-friendly-debate/)
 
 ## For Parasoft
 - [Prevention's the Cure](https://www.drdobbs.com/preventions-the-cure/184415174)
