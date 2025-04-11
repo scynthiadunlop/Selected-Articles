@@ -10,6 +10,7 @@
  - [How Epic Games Revs up Unreal Engine ‘Cook Time’ for Devs](https://thenewstack.io/how-epic-games-revs-up-unreal-engine-cook-time-for-devs/)
  - [If P99 Latency Is BS, What’s the Alternative?](https://thenewstack.io/if-p99-latency-is-bs-whats-the-alternative/)
  - [Rust vs. Zig in Reality: A (Somewhat) Friendly Debate](https://thenewstack.io/rust-vs-zig-in-reality-a-somewhat-friendly-debate/)
+ - [How to Achieve Low Latency With a Low Budget](https://thenewstack.io/high-performance-on-a-low-budget/)
 
 ## For Parasoft
 - [Prevention's the Cure](https://www.drdobbs.com/preventions-the-cure/184415174)
