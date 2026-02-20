@@ -13,11 +13,9 @@
  - [How to Achieve Low Latency With a Low Budget](https://thenewstack.io/high-performance-on-a-low-budget/)
 
 ## For Parasoft
-- [Prevention's the Cure](https://www.drdobbs.com/preventions-the-cure/184415174)
-- [64-Bit Clean Code: Are You Ready?](https://www.drdobbs.com/64-bit-clean-code-are-you-ready/184414590?queryText=kolawa)
-- [Bulletproofing C++ Code](https://www.drdobbs.com/article/print?articleId=196802351&siteSectionName=cpp)
-- [Extend Beyond JUnit’s Basic Color Palette](https://www.softwaretestpro.com/extend-beyond-junits-basic-color-palette/)
-- [Automating the Development Process](https://www.drdobbs.com/automating-the-development-process/184414627?queryText=kolawa)
+- [Prevention's the Cure](https://web.archive.org/web/20120915025917/https://www.drdobbs.com/preventions-the-cure/184415174)
+- [Bulletproofing C++ Code](https://jacobfilipp.com/DrDobbs/articles/DDJ/2007/0702/070101ss01/070101ss01.html)
+- [Extend Beyond JUnit’s Basic Color Palette](https://web.archive.org/web/20250906221828/https://www.softwaretestpro.com/extend-beyond-junits-basic-color-palette/)
 - [Reducing Software Security Vulnerabilities Through Unit Testing](https://www.militaryaerospace.com/test/article/16708135/reducing-software-security-vulnerabilities-through-unit-testing)
 - [Deploy and Destroy test environments](https://sdtimes.com/continuous-deployment/guest-view-test-anarchy-deploy-destroy-test-environments/)
 - [Techniques for Preventing and Detecting Errors in Embedded Systems](https://web.archive.org/web/20150107092432/https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.131.3010&rep=rep1&type=pdf)
